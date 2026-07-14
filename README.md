@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/adwaitkelkar4" target="blank"><img src="https://img.shields.io/twitter/follow/adwaitkelkar4?logo=twitter&style=for-the-badge" alt="adwaitkelkar4" /></a> </p>
 
-- 🌱 I’m currently learning **Use of machine learning in trading.**
+- 🌱 I’m currently learning **Use of AI in trading.**
 
 - 📝 I regularly write articles on [https://adwaitkelkar12.medium.com/](https://adwaitkelkar12.medium.com/)
 
-- 💬 Ask me about **Data Science, Machine Learning, Stock market**
+- 💬 Ask me about **AI, Computer vision, Deep learning, Investing**
 
 - 📫 How to reach me **adwaitkelkar12@gmail.com**
 
