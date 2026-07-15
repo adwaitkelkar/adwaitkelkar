@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adwait Kelkar</h1>
 <h3 align="center">Passionate about Machine learning, Data Science and Fintech domains.</h3>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adwaitkelkar)
+
 <p align="left"> <a href="https://twitter.com/adwaitkelkar4" target="blank"><img src="https://img.shields.io/twitter/follow/adwaitkelkar4?logo=twitter&style=for-the-badge" alt="adwaitkelkar4" /></a> </p>
 
 - 🌱 I’m currently learning **Use of AI in trading.**
