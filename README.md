@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adwaitkelkar" alt="Profile views" />
-  <a href="https://twitter.com/adwaitkelkar4" target="blank"><img src="https://img.shields.io/twitter/follow/adwaitkelkar4?logo=twitter&style=for-the-badge" alt="adwaitkelkar4" /></a>
 </p>
 
 ---
