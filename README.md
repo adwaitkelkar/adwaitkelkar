@@ -20,6 +20,11 @@
 - **Explaining complex ideas simply**, bridging the gap between data and decision-makers.
 - Picking up new tools fast and shipping quickly with AI in the loop.
 
+### 🧩 Featured Projects
+- 🤖 **[Research-Digest Agent](https://github.com/adwaitkelkar/paper-digest-agent)** — an autonomous AI agent (Python + Claude API) that scrapes Hugging Face Daily Papers, selects the best ones with a hybrid rule-based + LLM-classification policy, and writes fact-grounded summaries. Runs fully unattended every week via a GitHub Actions cron and auto-publishes to Notion, with strict anti-hallucination constraints and a custom Markdown-to-Notion converter. 👉 [See a sample output](https://north-gemini-204.notion.site/Orca-The-World-is-in-Your-Mind-39431fa4ef4c813a8e73da6bd6d76a9c)
+- 👁️ **[AI-Driven Contextual Ad Platform (VisionAd)](https://github.com/adwaitkelkar/VisionAd)** — an end-to-end, real-time computer vision system (95% detection accuracy) with a downstream decision layer, built to scale across new categories.
+- ⚽ **[Football Highlights Generator](https://github.com/adwaitkelkar/Football-Highlights-)** — automatically turns full-length matches into highlight reels (85% OCR accuracy) using an image-processing pipeline for text extraction and event detection.
+
 ### 🌱 In my free time
 - 📈 I build my own **investment and options-trading strategies**, and explore how AI can power trading.
 - ✍️ I write articles on [Medium](https://adwaitkelkar12.medium.com/).
