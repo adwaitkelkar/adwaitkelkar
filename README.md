@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adwait Kelkar</h1>
-<h3 align="center">AI & Machine Learning Engineer · MSc AI @ TU/e · Passionate about AI, Machine Learning, Deep learning, Foundational Models & Fintech 🤖📈</h3>
+<h3 align="center">AI & Machine Learning Engineer · MSc AI @ TU/e · Passionate about AI, Machine Learning, Deep Learning, Foundational Models & Fintech 🤖📈</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adwaitkelkar" alt="Profile views" />
@@ -70,4 +70,4 @@
 ### 📊 GitHub Stats
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adwaitkelkar&show_icons=true&locale=en&layout=compact" alt="top langs" /></p>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adwaitkelkar&show_icons=true&locale=en" alt="stats" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwaitkelkar&" alt="streak" /></p>
+<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=adwaitkelkar&" alt="streak" /></p>
