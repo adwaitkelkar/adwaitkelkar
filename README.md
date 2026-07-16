@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adwait Kelkar</h1>
-<h3 align="center">AI & Machine Learning Engineer · MSc AI @ TU/e · Passionate about Machine Learning, Data Science & Fintech 🤖📈</h3>
+<h3 align="center">AI & Machine Learning Engineer · MSc AI @ TU/e · Passionate about AI, Machine Learning, Deep learning, Foundational Models & Fintech 🤖📈</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adwaitkelkar" alt="Profile views" />
