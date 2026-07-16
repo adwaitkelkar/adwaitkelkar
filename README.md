@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adwaitkelkar" alt="Profile views" />
+  📫 **Reach me:** adwaitkelkar12@gmail.com
 </p>
 
 ---
@@ -32,7 +33,6 @@
 ### 💬 Ask me about
 `AI` · `Machine Learning` · `Computer Vision` · `Deep Learning` · `LLM Agents` · `Investing`
 
-📫 **Reach me:** adwaitkelkar12@gmail.com
 
 ---
 
