@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adwaitkelkar" alt="Profile views" />
-  📫 **Reach me:** adwaitkelkar12@gmail.com
+  📫 adwaitkelkar12@gmail.com
 </p>
 
 ---
