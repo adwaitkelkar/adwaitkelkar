@@ -36,8 +36,3 @@
 ### 💬 Ask me about
 `AI` · `Machine Learning` · `Computer Vision` · `Deep Learning` · `LLM Agents` · `Investing`
 
-
-### 📊 GitHub Stats
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adwaitkelkar&show_icons=true&locale=en&layout=compact" alt="top langs" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adwaitkelkar&show_icons=true&locale=en" alt="stats" /></p>
-<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=adwaitkelkar&" alt="streak" /></p>
